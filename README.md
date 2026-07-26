@@ -63,8 +63,8 @@ Git • GitHub • VS Code • Figma • Canva
 
 ## 📫 Connect With Me
 
-LinkedIn : https://www.linkedin.com/in/jhanvi-gupta-975514320
-GitHub :   https://github.com/Jhanvi-code23/
+LinkedIn : https://www.linkedin.com/in/jhanvi-gupta-975514320  
+GitHub :   https://github.com/Jhanvi-code23/  
 Email : jhanvigupta892@gmail.com
 
 > "Every project teaches something. Every bug teaches even more."
