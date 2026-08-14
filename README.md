@@ -46,7 +46,7 @@ Git • GitHub • VS Code • Figma • Canva
 
 ## 📊 LeetCode
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/jhanvi_codes1?theme=dark&ext=heatmap)
+![LeetCode Stats](https://github-readme-leetcode-stats.vercel.app/api/card?username=jhanvi_codes1&theme=dark-minimalist)
 
 
 ---
