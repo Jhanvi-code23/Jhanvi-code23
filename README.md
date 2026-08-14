@@ -41,6 +41,14 @@ React • Tailwind CSS
 
 Git • GitHub • VS Code • Figma • Canva
 
+
+---
+
+## 📊 LeetCode
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/jhanvi_codes1?theme=dark&ext=heatmap)
+
+
 ---
 
 ## 📂 Featured Projects
