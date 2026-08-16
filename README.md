@@ -54,9 +54,10 @@ Git • GitHub • VS Code • Figma • Canva
 ## 📂 Featured Projects
 
 - 🌦️ Weather Application
-- 🍽️ Restaurant Website
 - 🛍️ Myntra Clone
-- 💼 Personal Portfolio
+- 🎨 SkillFi — Frontend
+- ✅ CheckMate — To-Do List App
+- 🕊️ Tribute Page — Leonardo Da Vinci
 - 📚 DSA Journey
 
 ---
