@@ -2,7 +2,7 @@
 
 ### B.Tech IT Student • Frontend Developer • Learning DSA one problem at a time
 
-I enjoy building clean, responsive web applications and turning ideas into interactive user experiences. Currently, I'm strengthening my problem-solving skills through Data Structures & Algorithms while exploring React and full-stack development.
+I enjoy building clean, responsive web applications and turning ideas into interactive user experiences. Currently, I'm strengthening my problem-solving skills through Data Structures & Algorithms while exploring full-stack development.
 
 Outside of coding, you'll usually find me experimenting with UI designs, clicking photographs, or convincing myself that this bug will only take "five minutes" to fix.
 
@@ -12,7 +12,7 @@ Outside of coding, you'll usually find me experimenting with UI designs, clickin
 
 - 🎓 B.Tech Information Technology student
 - 💻 Interested in Frontend Development & UI/UX
-- 🌱 Currently learning React and improving my DSA skills in Java
+- 🌱 Currently learning NodeJS and improving my DSA skills in Java
 - 🛠️ Building projects to strengthen my development skills
 - 🎯 Goal: Become a software engineer who builds products people enjoy using
 
@@ -21,7 +21,7 @@ Outside of coding, you'll usually find me experimenting with UI designs, clickin
 ## 🚀 Current Focus
 
 - Solving DSA problems in Java
-- Learning React
+- Learning NodeJS
 - Building full-stack projects
 - Improving UI/UX design skills
 
@@ -54,7 +54,7 @@ Git • GitHub • VS Code • Figma • Canva
 ## 📂 Featured Projects
 
 - 🌦️ Weather Application
-- 🛍️ Myntra Clone
+- 📚 StudySphere
 - 🎨 SkillFi — Frontend
 - ✅ CheckMate — To-Do List App
 - 🕊️ Tribute Page — Leonardo Da Vinci
@@ -65,7 +65,7 @@ Git • GitHub • VS Code • Figma • Canva
 ## 📈 Currently Working On
 
 - Expanding my DSA repository
-- Building more React projects
+- Building more projects
 - Preparing for Software Development internships
 
 ---
